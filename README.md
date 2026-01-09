@@ -2,6 +2,7 @@ Silly stuff I've made
 
 | stuff | screenshots |
 | --- | --- |
+|[enchantmenttable/scroll-depth: The deeper you scroll the dimmer the screen becomes](https://github.com/enchantmenttable/scroll-depth/tree/main)| <img alt="d" src="https://github.com/user-attachments/assets/eb8fec67-663f-444e-bbe4-8d9053d1e21a" /> |
 |[enchantmenttable/tab-decay: Adds emoji prefixes to tabs based on how long the user hasn't looked at them.](https://github.com/enchantmenttable/tab-decay)| <img alt="image 3" src="https://github.com/user-attachments/assets/5ec01c70-a720-4322-8c41-bbf33ee60266" /> |
 |[enchantmenttable/lights-out: True dark mode! So dark you have to use a flashlight.](https://github.com/enchantmenttable/lights-out)| <img alt="image 9" src="https://github.com/user-attachments/assets/d28c3dc5-6c05-4919-98c6-6a314f6b70c4" /> |
 |[enchantmenttable/godot-jumping-game: jump](https://github.com/enchantmenttable/godot-jumping-game)|![gif](https://github.com/enchantmenttable/godot-jumping-game/blob/main/intro/Kapture%202024-10-10%20at%2011.16.13.gif?raw=true)|
